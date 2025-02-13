@@ -1,6 +1,6 @@
 package com.example.pagerapplication
 
-class Test {
+annotation class Test {
     val CONST = 3
     fun main() {
         var numberLists = mutableListOf<Int>()
